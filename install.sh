@@ -1,4 +1,4 @@
-gs wa#!/usr/bin/env bash
+gs wast#!/usr/bin/env bash
 set -euo pipefail
 
 echo "Let's get you set up with Rustlings!"
